@@ -13,7 +13,7 @@ main:
 
   - #title: "Teaching"
     #url: /teaching/    
-  - title: "<span style='color: red; font-weight: bold;'>Projects</span>"
+  - title: "<span style='color: green; font-weight: bold;'>Projects</span>"
     url: /portfolio/
 
   - title: "Resume"
