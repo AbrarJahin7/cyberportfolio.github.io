@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "abrarjahin.github.io(cybersecurity portfolio)"
+title                    : "Abrarjahin.github.io\n(Cybersecurity Portfolio)"
+"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
