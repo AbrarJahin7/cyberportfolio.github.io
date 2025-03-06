@@ -17,13 +17,13 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-   - #title: "Publications"
+    #title: "Publications"
     #url: /publications/
 
-  - #title: "Talks"
+   #title: "Talks"
     #url: /talks/    
 
-  - #title: "Teaching"
+   #title: "Teaching"
     #url: /teaching/ 
     
  # - title: "Guide"
