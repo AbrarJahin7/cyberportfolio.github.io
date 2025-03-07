@@ -28,9 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dhaka,Bangladesh"
-  employer         : <span><a href="https://www.aust.edu/" target="_blank">Ahsanullah University of Science and Technology</a></span>
-
-
+  employer         : [Ahsanullah University of Science and Technology](https://www.aust.edu/)
   uri              : # URL
   email            : "none@example.org" 
 
