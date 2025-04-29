@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 hellooosdsdsddssdsdsd I AM ABRAR WEBSITE TESTING
-![](/images/PORTFOLIOPIC.jpeg){: .align-right width="300px"}
+
+<img src="images/PORTFOLIOPIC.jpeg" alt="My Image" style="float: right; width: 300px; margin-left: 15px;">
 
 
 A data-driven personal website
