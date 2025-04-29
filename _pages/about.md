@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span style='color:yellow;'>print</span>(\"👨‍💻 Hello World! I’m Abrar! \")"
+title: "<span style='color:#cf8d2e;'>print</span>(\"👨‍💻 Hello World! I’m Abrar — Cybersecurity Enthusiast\")"
 author_profile: true
 redirect_from: 
   - /about/
