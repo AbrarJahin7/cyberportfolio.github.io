@@ -19,10 +19,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-    title: "Publications"
+  - title: "Publications"
     url: /publications/
 
-   title: "About Me"
+  - title: "About Me"
     url: /talks/    
 
    #title: "Teaching"
