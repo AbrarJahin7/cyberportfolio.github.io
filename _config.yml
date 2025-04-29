@@ -26,7 +26,8 @@ author:
   avatar           : "WhatsApp Image 2025-03-07 at 00.41.17_a6916f50.jpg"
   name             : "Abrar Jahin Sachcha"
   pronouns         : # example: "she/her"  
-  bio              : "Electrical Engineer Turned Security Researcher, Aiming to Pioneer AI-Driven Cybersecurity Solutions with Applied Machine Learning."
+  bio              : <h1 style="color: #333;">Electrical Engineer Turned Security Researcher, Aiming to Pioneer AI-Driven Cybersecurity Solutions with Applied Machine Learning</h1> 
+
   location         : "Dhaka,Bangladesh"
   employer         : <a href='https://www.aust.edu/' target='_blank' style='display:inline;'>Ahsanullah University of Science and Technology</a>
 
@@ -61,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "abrarjahinsachcha"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
