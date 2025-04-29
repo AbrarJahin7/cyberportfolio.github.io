@@ -28,11 +28,11 @@ author:
   pronouns         : # example: "she/her"  
  bio: >
   <p style="color:#555;">Electrical Engineer Turned Security Researcher, Aiming to Pioneer AI-Driven Cybersecurity Solutions with Applied Machine Learning</p>
-  location         : "Dhaka,Bangladesh"
+ 
   employer: >
   <a href='https://www.aust.edu/' target='_blank' style='display:inline;'>Ahsanullah University of Science and Technology</a>
 
-
+ location         : "Dhaka,Bangladesh"
 
   
   uri              : # URL
