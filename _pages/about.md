@@ -14,13 +14,12 @@ redirect_from:
 
 
 
-Hi there! I’m Abrar Jahin, a third-year undergrad Electrical Engineering student and an aspiring Cybersecurity Engineer by passion. My journey From circuits to cybersecurity landscape is driven by an insatiable curiosity ,a passion for innovation, and a commitment to solving complex problems.My expertise spans both hardware and software, including both offensive and defensive security practices As a results-driven individual I possess a natural ability to solve complex problems and deliver impactful solutions
-
+<span style="color:#cf8d2e; font-weight: bold;">Introduction :</span><br> Hi there! I’m Abrar Jahin, a third-year undergrad Electrical Engineering student and an aspiring Cybersecurity Engineer by passion. My journey From circuits to cybersecurity landscape is driven by an insatiable curiosity, a passion for innovation, and a commitment to solve real world problems. As a results-driven individual I possess a natural ability to solve the most complex problems and deliver impactful solutions. With a foundation in both hardware and software, my expertise spans both Offensive and Defensive Cybersecurity practices, allowing me to think across layers—systems, code, and threat. Looking ahead, I aim to pursue research at the intersection of machine learning and cybersecurity, with the goal of developing intelligent, adaptive security solutions. From reverse engineering to model training, I am excited to explore and contribute to the most advanced aspects of security
 
 <img src="images/PORTFOLIOPIC.jpeg" alt="My Image" style="float: right; width: 300px; margin-left: 15px;">
 
 
-A data-driven personal website
+My skills and Experience
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
