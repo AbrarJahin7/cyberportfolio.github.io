@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "<span style='color:#cf8d2e;'>console.log</span>(\Welcome to My Portfolio💡—Explore My Work and Projects here 🛠️⚡ "👨‍💻 \"); 
-author_profile: true
+title: <span style="color:#cf8d2e;">console.log</span>(<span style="color:#ffffff;">"Welcome to My Portfolio💡—Explore My Work and Projects here 🛠️⚡👨‍💻"</span>);
+
 redirect_from: 
   - /about/
   - /about.html
