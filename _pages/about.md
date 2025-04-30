@@ -1,22 +1,22 @@
 ---
 permalink: /
-title: <span style="color:#cf8d2e;">console.log</span>(<span style="color:#52565e;">"Welcome to My Portfolio💡—Explore My Work and Projects here 🛠️⚡👨‍💻"</span>);
+title: <span style="color:#cf8d2e;">console.log</span>(<span style="color:#52565e;">"Welcome to My Portfolio💡—Explore My Work and Projects here 🛠️👨‍💻"</span>);
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<br><br>
 
 
 
-
-
-
-
-<span style="color:#511378; font-weight: bold;">Introduction :</span> Hi there! I’m Abrar Jahin, a third-year undergrad Electrical Engineering student and an aspiring Cybersecurity Engineer by passion. My journey From circuits to cybersecurity landscape is driven by an insatiable curiosity, a passion for innovation, and a commitment to solve real world problems. As a results-driven individual I possess a natural ability to solve the most complex problems and deliver impactful solutions. With a foundation in both hardware and software, my expertise spans both Offensive and Defensive Cybersecurity practices, allowing me to think across layers—systems, code, and threat. Looking ahead, I aim to pursue research at the intersection of machine learning and cybersecurity, with the goal of developing intelligent, adaptive security solutions. From reverse engineering to model training, I am excited to explore and contribute to the most advanced aspects of security
 
 <img src="images/PORTFOLIOPIC.jpeg" alt="My Image" style="float: right; width: 300px; margin-left: 15px;">
+
+
+<span style="color:#511378; font-weight: bold;">Introduction :</span> Hi there! I’m Abrar Jahin, a third-year undergrad Electrical Engineering student and an aspiring Cybersecurity Engineer by passion. My journey From circuits to cybersecurity landscape is driven by an insatiable curiosity, a passion for innovation, and a commitment to solve real world problems. As a results-driven individual I possess a natural ability to solve the most complex problems and deliver impactful solutions. With a foundation in both hardware and software, my expertise spans both Offensive and Defensive Cybersecurity practices, allowing me to think across layers—systems, code, and threat. Looking ahead, I aim to pursue research at the intersection of machine learning and cybersecurity, with the goal of developing intelligent, adaptive security solutions. From reverse engineering to model training, I am enthusiastic about exploring and contributing to the most advanced and innovative domains of cybersecurity.
+
 
 
 My skills and Experience
