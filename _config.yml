@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "<h1 style="color:#511378;">Cybersecurity Portfolio</h1>"
+title                    : <h1 style="color:#511378;">Cybersecurity Portfolio</h1>
 
 title_separator          : "-"
 name                     : &name "Your Name"
