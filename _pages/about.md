@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span style='color:#cf8d2e;'>console.log</span>(\"Hello World! I’m Abrar 👨‍💻 \"); Welcome to My Portfolio💡—Explore My Work and Projects here 🛠️⚡ "
+title: "<span style='color:#cf8d2e;'>console.log</span>(\Welcome to My Portfolio💡—Explore My Work and Projects here 🛠️⚡ "👨‍💻 \"); 
 author_profile: true
 redirect_from: 
   - /about/
