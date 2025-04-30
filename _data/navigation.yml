@@ -8,7 +8,7 @@ main:
   - title: "Home"
     url: https://abrarjahin7.github.io/cyberportfolio.github.io
   
-  - title: "<span style='color:#48a9c5; font-weight: bold;'>Projects</span>"
+  - title: "<span style='color:#511378; font-weight: bold;'>Projects</span>"
     url: /portfolio/
 
   - title: "Resume"
