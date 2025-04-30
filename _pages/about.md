@@ -14,7 +14,8 @@ redirect_from:
 
 
 
-hellooosdsdsddssdsdsd I AM ABRAR WEBSITE TESTING
+Hi there! I’m Abrar Jahin, a third-year undergrad Electrical Engineering student and an aspiring Cybersecurity Engineer by passion. My journey From circuits to cybersecurity landscape is driven by an insatiable curiosity ,a passion for innovation, and a commitment to solving complex problems.My expertise spans both hardware and software, including both offensive and defensive security practices As a results-driven individual I possess a natural ability to solve complex problems and deliver impactful solutions
+
 
 <img src="images/PORTFOLIOPIC.jpeg" alt="My Image" style="float: right; width: 300px; margin-left: 15px;">
 
