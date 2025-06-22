@@ -17,7 +17,7 @@ main:
     #url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://medium.com/@abrarjahin.infosec
     
   #- title: "Publications"
    # url: /publications/
