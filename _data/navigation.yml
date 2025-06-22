@@ -17,10 +17,8 @@ main:
     #url: /portfolio/
         
   - title: "Blog Posts"
-    url: <a href="https://medium.com/@abrarjahin.infosec" target="_blank" rel="noopener">Blog Posts</a>
-
-  #- title: "Publications"
-   # url: /publications/
+    url: https://medium.com/@abrarjahin.infosec
+    new_tab: true
 
  # - title: "About Me"
     #url: /talks/    
